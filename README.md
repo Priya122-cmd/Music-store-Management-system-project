@@ -62,10 +62,3 @@ SQL-driven analysis provides a strong foundation for informed and strategic busi
 	•	MySQL
 	•	MySQL Workbench
 	•	SQL (CTEs, JOINs, Subqueries, Aggregations)
-
-  👥 Team Members
-
-This project was completed as a group project by:
-	•	A.Laxmi priya
-	•	Aastha
-	•	Chandini
